@@ -1,0 +1,119 @@
+[
+  {
+    "date": "2025-07-20",
+    "time": "18:45",
+    "currency": "NZD",
+    "event": "CPI (QoQ) (Q2)",
+    "forecast": "0.9%",
+    "previous": "",
+    "actual": ""
+  },
+  {
+    "date": "2025-07-20",
+    "time": "18:45",
+    "currency": "NZD",
+    "event": "CPI (YoY) (Q2)",
+    "forecast": "2.5%",
+    "previous": "",
+    "actual": ""
+  },
+  {
+    "date": "2025-07-20",
+    "time": "19:01",
+    "currency": "GBP",
+    "event": "Rightmove HPI (MoM)",
+    "forecast": "-0.3%",
+    "previous": "",
+    "actual": ""
+  },
+  {
+    "date": "2025-07-20",
+    "time": "21:00",
+    "currency": "CNY",
+    "event": "PBoC Loan Prime Rate",
+    "forecast": "3.00%",
+    "previous": "",
+    "actual": ""
+  },
+  {
+    "date": "2025-07-21",
+    "time": "04:30",
+    "currency": "HKD",
+    "event": "CPI (YoY) (Jun)",
+    "forecast": "1.90%",
+    "previous": "",
+    "actual": ""
+  },
+  {
+    "date": "2025-07-21",
+    "time": "08:30",
+    "currency": "CAD",
+    "event": "IPPI (MoM) (Jun)",
+    "forecast": "-0.5%",
+    "previous": "",
+    "actual": ""
+  },
+  {
+    "date": "2025-07-21",
+    "time": "10:00",
+    "currency": "USD",
+    "event": "US Leading Index (MoM) (Jun)",
+    "forecast": "-0.1%",
+    "previous": "",
+    "actual": ""
+  },
+  {
+    "date": "2025-07-22",
+    "time": "02:00",
+    "currency": "GBP",
+    "event": "Public Sector Net Borrowing (Jun)",
+    "forecast": "17.69B",
+    "previous": "",
+    "actual": ""
+  },
+  {
+    "date": "2025-07-22",
+    "time": "09:30",
+    "currency": "USD",
+    "event": "Fed Chair Powell Speaks",
+    "forecast": "",
+    "previous": "",
+    "actual": ""
+  },
+  {
+    "date": "2025-07-23",
+    "time": "10:00",
+    "currency": "USD",
+    "event": "Existing Home Sales (Jun)",
+    "forecast": "4.00M",
+    "previous": "4.03M",
+    "actual": ""
+  },
+  {
+    "date": "2025-07-24",
+    "time": "08:30",
+    "currency": "USD",
+    "event": "Initial Jobless Claims",
+    "forecast": "221K",
+    "previous": "",
+    "actual": ""
+  },
+  {
+    "date": "2025-07-25",
+    "time": "08:30",
+    "currency": "USD",
+    "event": "Durable Goods Orders (MoM) (Jun)",
+    "forecast": "-11.0%",
+    "previous": "16.4%",
+    "actual": ""
+  },
+  {
+    "date": "2025-07-26",
+    "time": "21:30",
+    "currency": "CNY",
+    "event": "Chinese Industrial profit YTD (Jun)",
+    "forecast": "",
+    "previous": "",
+    "actual": ""
+  }
+]

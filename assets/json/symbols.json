@@ -1,0 +1,232 @@
+{
+  "Forex": [
+    {
+      "symbol": "EUR/GBP",
+      "name": "Euro / British Pound"
+    },
+    {
+      "symbol": "USD/JPY",
+      "name": "US Dollar / Japanese Yen"
+    },
+    {
+      "symbol": "GBP/USD",
+      "name": "British Pound / US Dollar"
+    },
+    {
+      "symbol": "GBP/JPY",
+      "name": "British Pound / Japanese Yen"
+    },
+    {
+      "symbol": "NZD/USD",
+      "name": "New Zealand Dollar / US Dollar"
+    },
+    {
+      "symbol": "USD/CAD",
+      "name": "US Dollar / Canadian Dollar"
+    },
+    {
+      "symbol": "EUR/JPY",
+      "name": "Euro / Japanese Yen"
+    },
+    {
+      "symbol": "AUD/USD",
+      "name": "Australian Dollar / US Dollar"
+    },
+    {
+      "symbol": "USD/CHF",
+      "name": "US Dollar / Swiss Franc"
+    },
+    {
+      "symbol": "GBP/JPY0",
+      "name": "British Pound / Japanese Yen"
+    },
+    {
+      "symbol": "EUR/USD",
+      "name": "Euro / US Dollar"
+    }
+  ],
+  "Commodities": [
+    {
+      "symbol": "XPT/USD",
+      "name": "Platinum"
+    },
+    {
+      "symbol": "ZC",
+      "name": "Corn"
+    },
+    {
+      "symbol": "Brent",
+      "name": "Brent Crude Oil"
+    },
+    {
+      "symbol": "ZW",
+      "name": "Wheat"
+    },
+    {
+      "symbol": "NG",
+      "name": "Natural Gas"
+    },
+    {
+      "symbol": "HG",
+      "name": "Copper"
+    },
+    {
+      "symbol": "XAU/USD",
+      "name": "Gold"
+    },
+    {
+      "symbol": "WTI",
+      "name": "Crude Oil (West Texas Intermediate)"
+    },
+    {
+      "symbol": "XPD/USD",
+      "name": "Palladium"
+    },
+    {
+      "symbol": "HG0",
+      "name": "Copper"
+    },
+    {
+      "symbol": "XAG/USD",
+      "name": "Silver"
+    }
+  ],
+  "Futures": [
+    {
+      "symbol": "ZN",
+      "name": "10-Year T-Note"
+    },
+    {
+      "symbol": "ZT",
+      "name": "2-Year T-Note"
+    },
+    {
+      "symbol": "RTY",
+      "name": "E-mini Russell 2000"
+    },
+    {
+      "symbol": "NQ",
+      "name": "E-mini Nasdaq 100"
+    },
+    {
+      "symbol": "GC",
+      "name": "Gold Futures"
+    },
+    {
+      "symbol": "ES",
+      "name": "E-mini S&P 500"
+    },
+    {
+      "symbol": "ZB",
+      "name": "30-Year T-Bond"
+    },
+    {
+      "symbol": "ZF",
+      "name": "5-Year T-Note"
+    },
+    {
+      "symbol": "CL",
+      "name": "Crude Oil Futures"
+    },
+    {
+      "symbol": "YM",
+      "name": "E-mini Dow"
+    },
+    {
+      "symbol": "ZT0",
+      "name": "2-Year T-Note"
+    }
+  ],
+  "Bonds": [
+    {
+      "symbol": "DE10Y",
+      "name": "Germany 10-Year Bond"
+    },
+    {
+      "symbol": "US30Y",
+      "name": "US 30-Year Bond Yield"
+    },
+    {
+      "symbol": "ES10Y",
+      "name": "Spain 10-Year Bond"
+    },
+    {
+      "symbol": "JP10Y",
+      "name": "Japan 10-Year Bond"
+    },
+    {
+      "symbol": "US02Y",
+      "name": "US 2-Year Bond Yield"
+    },
+    {
+      "symbol": "FR10Y",
+      "name": "France 10-Year Bond"
+    },
+    {
+      "symbol": "IT10Y",
+      "name": "Italy 10-Year Bond"
+    },
+    {
+      "symbol": "UK10Y",
+      "name": "UK 10-Year Gilt"
+    },
+    {
+      "symbol": "CA10Y",
+      "name": "Canada 10-Year Bond"
+    },
+    {
+      "symbol": "CA10Y0",
+      "name": "Canada 10-Year Bond"
+    },
+    {
+      "symbol": "US10Y",
+      "name": "US 10-Year Bond Yield"
+    }
+  ],
+  "ETFs": [
+    {
+      "symbol": "EEM",
+      "name": "iShares MSCI Emerging Markets ETF"
+    },
+    {
+      "symbol": "SPY",
+      "name": "SPDR S&P 500 ETF"
+    },
+    {
+      "symbol": "QQQ",
+      "name": "Invesco QQQ ETF"
+    },
+    {
+      "symbol": "EFA",
+      "name": "iShares MSCI EAFE ETF"
+    },
+    {
+      "symbol": "VOO",
+      "name": "Vanguard S&P 500 ETF"
+    },
+    {
+      "symbol": "GLD",
+      "name": "SPDR Gold Shares"
+    },
+    {
+      "symbol": "SLV",
+      "name": "iShares Silver Trust"
+    },
+    {
+      "symbol": "IWM",
+      "name": "iShares Russell 2000 ETF"
+    },
+    {
+      "symbol": "VTI",
+      "name": "Vanguard Total Stock Market ETF"
+    },
+    {
+      "symbol": "TLT",
+      "name": "iShares 20+ Year Treasury Bond ETF"
+    },
+    {
+      "symbol": "QQQ0",
+      "name": "Invesco QQQ ETF"
+    }
+  ]
+}
